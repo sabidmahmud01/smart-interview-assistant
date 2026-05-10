@@ -1,0 +1,38 @@
+# ========================
+# SECURITY — Never push these
+# ========================
+.env
+.env.local
+.env.production
+*.key
+secrets.json
+
+# ========================
+# Python (Backend)
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ========================
+# Node / React (Frontend)
+# ========================
+node_modules/
+.next/
+out/
+build/
+npm-debug.log*
+yarn-error.log*
+
+# ========================
+# General OS junk
+# ========================
+.DS_Store
+Thumbs.db
+*.log
