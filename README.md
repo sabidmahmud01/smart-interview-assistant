@@ -40,7 +40,7 @@ smart-interview-assistant/
 ## Roadmap
 
 - [x] Task 1 — Project initialization & folder structure
-- [ ] Task 2 — React frontend setup
+- [x] Task 2 — React frontend setup
 - [ ] Task 3 — Create Interview Session page (question list)
 - [ ] Task 4 — Dual-mic audio recording
 - [ ] Task 5 — Python backend server (FastAPI)
